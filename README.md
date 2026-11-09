@@ -37,7 +37,7 @@ En el navegador del dispositivo (localStorage, ≈ 5 MB). Recomendar a cada clie
 
 ## Publicar
 1. Subir a GitHub (repo `haroldco45/papeleria-digital`): `index.html`, `manifest.json`, `sw.js`, `icon-192.png`, `icon-512.png`, `og-image.png`, `README.md`.
-2. Conectar el repo en Netlify con el nombre de sitio **papeleria-vibras** → `https://papeleria-vibras.netlify.app/`.
+2. Conectar el repo en Netlify con el nombre de sitio **papeleria-digita** → `https://papeleria-digita.netlify.app/`.
 3. Si el nombre del sitio cambia, cambiar la URL en las etiquetas `og:url`, `og:image` y `twitter:image` de `index.html`.
 
 ---
